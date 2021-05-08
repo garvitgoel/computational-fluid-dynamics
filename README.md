@@ -1,2 +1,2 @@
 # fluid-simulation
-A Computational Fluid Dynamics simulation of a multi-phase system. Done as part of summer project at Imperial College London
+A Computational Fluid Dynamics simulation of a multi-phase system. Done as part of summer project at Imperial College London, in 2014.
